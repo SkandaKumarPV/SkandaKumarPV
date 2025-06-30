@@ -13,7 +13,7 @@
 - 🔭 Currently building a **Leave Management System** with email automation  
 - 💡 Interests: **Backend Development**, **AI/ML**, **Web Dev**, **Data Handling**, **Automation**
 - 🧠 Passionate about solving real-world problems with smart systems
-- 📫 Reach me at: `skandakumarpv@gmail.com`
+- 📫 Reach me at: `kumarskanda3@gmail.com`
 
 ---
 
